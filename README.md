@@ -4,7 +4,7 @@ Tired of maintaining projects riddled with un-necessary and bloated dependencies
 =============
 
 ## Getting Started
-Note: Before using this library make sure you have set up both [AngularJS](https://angularjs.org/) and [jQuery](https://jquery.com/) in your project.
+Note: Before using this library make sure you have included both [AngularJS](https://angularjs.org/) and [jQuery](https://jquery.com/) in your project.
 
 Example of how to use:
 
