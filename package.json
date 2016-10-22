@@ -1,0 +1,22 @@
+{
+  "name": "scrolling-highlight",
+  "version": "1.0.0",
+  "description": "A library that highlights your current position in your navigation as you scroll",
+  "main": "scrolling-highlight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrolling",
+    "highlight",
+    "angularjs",
+    "angular",
+    "dependencies"
+  ],
+  "author": "Jeff Weimer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffWeim/scrolling-highlight.git"
+  },
+}
