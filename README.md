@@ -1,6 +1,6 @@
 Welcome to Scrolling Highlight.
 
-Tired of maintaining projects riddled with un-necessary and bloated dependencies? If you said yes, then you can see yourself out and go write a really un-interesting blog post about it. If you said no, then great! Let's get started!
+* This is not meant to be a lightweight solution, but rather a possible solution if AngularJS is already available to use and more of a POC
 =============
 
 ## Getting Started
